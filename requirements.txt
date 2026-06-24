@@ -1,4 +1,4 @@
-python-obd
+obd
 pandas
 matplotlib
 pytest
