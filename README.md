@@ -45,7 +45,7 @@ python main.py plot --input data/sample_session.csv
 
 - ELM327 adapter (USB or Bluetooth)
 - Recommended: OBDLink SX (USB) or Veepeak OBDCheck BLE (Bluetooth)
-- Compatible with any OBD-II vehicle (US cars 1996+)
+- Compatible with any OBD-II vehicle (US cars 1996+) (+ my orange fiat500x)
 
 ## Tech Stack
 
