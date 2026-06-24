@@ -14,7 +14,7 @@ The tool connects to an **ELM327** adapter over a serial port and uses [`python-
 
 ## Demo
 
-Demo Screenshot [Will be updated with real data from ELM327 adapter
+Demo Screenshot [Will be updated with real data from ELM327 adapter]
 ![Sample session visualization](data/sample_plot.png)
 
 ## Usage
