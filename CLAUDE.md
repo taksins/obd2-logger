@@ -30,3 +30,6 @@ data/                — sample CSV recordings (committed to repo)
 ## Current focus
 Building src/connection.py — connect to ELM327, query supported PIDs,
 print a capability report
+
+## Demo
+![Sample session visualization](data/sample_plot.png)
