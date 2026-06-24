@@ -12,3 +12,13 @@ TARGET_PIDS: list[str] = [
 
 #: Polling rate for the logger loop, in Hz (polls per second).
 POLL_RATE_HZ: int = 2
+
+#: Display units for known PID columns, keyed by column name.
+PID_UNITS: dict[str, str] = {
+    "RPM": "rev/min",
+    "SPEED": "km/h",
+    "COOLANT_TEMP": "°C",
+    "THROTTLE_POS": "%",
+    "ENGINE_LOAD": "%",
+    "INTAKE_PRESSURE": "kPa",
+}
